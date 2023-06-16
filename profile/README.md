@@ -7,5 +7,5 @@
 - [ ] Custom Core (In-progress)
 - [x] Taser System (Complete)
 - [x] Duty System (Complete)
-- [ ] Interaction Menu (Nearly Complete)
+- [x] Interaction Menu (Complete, Still fixing/Adding new features)
 - [ ] Dispatch System (In-progress)
