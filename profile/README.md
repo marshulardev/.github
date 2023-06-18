@@ -9,3 +9,6 @@
 - [x] Duty System (Complete)
 - [x] Interaction Menu (Complete, Still fixing/Adding new features)
 - [ ] Dispatch System (In-progress)
+- [ ] Addon Blips (In-progress)
+- [ ] Addon Weapon Icons (In-progress)
+- [ ] Boz Weapons Expanded (In-progress)
