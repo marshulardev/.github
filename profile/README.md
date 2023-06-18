@@ -12,3 +12,4 @@
 - [ ] Addon Blips (In-progress)
 - [ ] Addon Weapon Icons (In-progress)
 - [ ] Boz Weapons Expanded (In-progress)
+- [ ] BozMenu Expanded (In-progress)
