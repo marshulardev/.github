@@ -4,11 +4,11 @@
 ## 👷‍♂️ Current Projects
 - [ ] ~~Custom vMenu~~ (Canceled, Not needed)
 - [ ] Custom Core (In-progress)
-- [x] Custom Taser System (Complete)
+- [x] Custom Taser System (Complete, rework in-progress)
 - [x] Custom Duty System (Complete, rework in-progress)
 - [x] Custom Interaction System (Complete, rework in-progress)
-- [ ] ~~Custom Dispatch System~~ (New system will be replacing this)
+- [ ] ~~Custom Dispatch System~~ (New system replaced this)
 - [ ] Custom Addon Blips (Planning)
 - [ ] ~~Custom Addon Weapon Icons~~ (Canceled, Not needed)
-- [ ] ~~Boz Weapons Expanded (Planning)~~
-- [ ] ~~BozMenu Expanded (Planning)~~
+- [ ] ~~Boz Weapons Expanded~~ (Canceled, Not needed)
+- [ ] ~~BozMenu Expanded~~ (Canceled, Not needed)
