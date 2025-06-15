@@ -3,5 +3,5 @@
 
 ## ⛏️ Current Project
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3fdbe68d-d566-4c85-bbcd-4ede8ac43209" alt="TRP"/>
+  <img src="https://github.com/user-attachments/assets/53a055a5-daac-44d1-aa2e-2fbc68530c0c" alt="TRP"/>
 </p>
